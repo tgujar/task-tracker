@@ -13,7 +13,7 @@ You may also see any lint errors in the console.
 
 ### `npm run server`
 
-Launches the mock backend server on port 5000.\
+Launches the mock backend server on port 5000.
 
 ### `npm run build`
 
